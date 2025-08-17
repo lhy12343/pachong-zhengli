@@ -1,0 +1,2918 @@
+{
+  "returncode": 0,
+  "message": "",
+  "result": {
+    "toolBar": [
+      {
+        "topicon": 0,
+        "id": 1,
+        "title": "口碑",
+        "url": ""
+      },
+      {
+        "topicon": 0,
+        "id": 4,
+        "title": "质量评价",
+        "url": "autohome://reputation/qualityassessmentlist?seriesid=146&cartype=1&fromtype=1"
+      }
+    ],
+    "showQuality": 0,
+    "c_name": "v1:146:1:10:0:true:0:3:3:115607",
+    "seriesMinPrice": {
+      "title": "57.8万",
+      "scheme": "autohome://flutter?url=flutter%3A%2F%2Fcar%2Fownerseriesprice%3Fseriesid%3D146%26fromtype%3D1"
+    },
+    "aKIndexInt": 57,
+    "aKIndexTrend": 1,
+    "cmpSeriesTitle": "同级别车系评分排行",
+    "cmpSeriesScore": [
+      {
+        "seriesId": 703,
+        "newCarPPH": 0,
+        "newCarPPHUserCount": 0,
+        "seriesName": "Panamera",
+        "score": "4.57",
+        "maxItemScore": "5.00",
+        "maxItemName": "动力",
+        "reliabilityPPH": 223,
+        "reliabilityPPHUserCount": 40
+      },
+      {
+        "seriesId": 7391,
+        "newCarPPH": 0,
+        "newCarPPHUserCount": 0,
+        "seriesName": "仰望U7",
+        "score": "4.54",
+        "maxItemScore": "4.75",
+        "maxItemName": "动力",
+        "reliabilityPPH": 0,
+        "reliabilityPPHUserCount": 0
+      },
+      {
+        "seriesId": 265,
+        "newCarPPH": 0,
+        "newCarPPHUserCount": 0,
+        "seriesName": "幻影",
+        "score": "4.43",
+        "maxItemScore": "5.00",
+        "maxItemName": "空间",
+        "reliabilityPPH": 0,
+        "reliabilityPPHUserCount": 0
+      },
+      {
+        "seriesId": 153,
+        "newCarPPH": 0,
+        "newCarPPHUserCount": 0,
+        "seriesName": "宝马7系",
+        "score": "4.43",
+        "maxItemScore": "4.81",
+        "maxItemName": "智能化",
+        "reliabilityPPH": 156,
+        "reliabilityPPHUserCount": 75
+      },
+      {
+        "seriesId": 3464,
+        "newCarPPH": 0,
+        "newCarPPHUserCount": 0,
+        "seriesName": "宝马8系",
+        "score": "4.36",
+        "maxItemScore": "5.00",
+        "maxItemName": "动力",
+        "reliabilityPPH": 0,
+        "reliabilityPPHUserCount": 0
+      }
+    ],
+    "cmpSeriesPPHTitle": "同级别车系质量排行",
+    "cmpSeriesPPH": [
+      {
+        "newCarPPH": 0,
+        "seriesId": 703,
+        "newCarPPHUserCount": 0,
+        "seriesName": "Panamera",
+        "url": "https://k.m.autohome.com.cn/seriesQuality/indexh5?sid=703&d=01&carType=1#pvareaid=6842346",
+        "pphPercentWidth": 0.0
+      },
+      {
+        "newCarPPH": 0,
+        "seriesId": 7391,
+        "newCarPPHUserCount": 0,
+        "seriesName": "仰望U7",
+        "url": "https://k.m.autohome.com.cn/seriesQuality/indexh5?sid=7391&d=01&carType=1#pvareaid=6842346",
+        "pphPercentWidth": 0.0
+      },
+      {
+        "newCarPPH": 0,
+        "seriesId": 265,
+        "newCarPPHUserCount": 0,
+        "seriesName": "幻影",
+        "url": "https://k.m.autohome.com.cn/seriesQuality/indexh5?sid=265&d=01&carType=1#pvareaid=6842346",
+        "pphPercentWidth": 0.0
+      },
+      {
+        "newCarPPH": 0,
+        "seriesId": 153,
+        "newCarPPHUserCount": 0,
+        "seriesName": "宝马7系",
+        "url": "https://k.m.autohome.com.cn/seriesQuality/indexh5?sid=153&d=01&carType=1#pvareaid=6842346",
+        "pphPercentWidth": 0.0
+      },
+      {
+        "newCarPPH": 0,
+        "seriesId": 3464,
+        "newCarPPHUserCount": 0,
+        "seriesName": "宝马8系",
+        "url": "https://k.m.autohome.com.cn/seriesQuality/indexh5?sid=3464&d=01&carType=1#pvareaid=6842346",
+        "pphPercentWidth": 0.0
+      }
+    ],
+    "showPPH": 0,
+    "specgroup": [
+      {
+        "groupname": "奥迪A8 2025款",
+        "count": 0,
+        "onsell": 1,
+        "year": 2025,
+        "yearId": 21557,
+        "speclist": [
+          {
+            "specid": 70484,
+            "koubeicount": 0,
+            "specname": "2025款 A8L 45 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 70485,
+            "koubeicount": 0,
+            "specname": "2025款 A8L 50 TFSI quattro 臻选型"
+          },
+          {
+            "specid": 70487,
+            "koubeicount": 0,
+            "specname": "2025款 A8L 55 TFSI quattro 旗舰型"
+          },
+          {
+            "specid": 70489,
+            "koubeicount": 0,
+            "specname": "2025款 A8L Horch创始人版 55TFSI"
+          },
+          {
+            "specid": 70490,
+            "koubeicount": 0,
+            "specname": "2025款 A8L Horch创始人版 60TFSI"
+          }
+        ]
+      },
+      {
+        "groupname": "奥迪A8 停售款",
+        "count": 473,
+        "onsell": 0,
+        "year": 2,
+        "yearId": 2,
+        "speclist": [
+          {
+            "specid": 69598,
+            "koubeicount": 0,
+            "specname": "2024款 A8 Grand Touring Limited 日本版"
+          },
+          {
+            "specid": 64041,
+            "koubeicount": 4,
+            "specname": "2024款 A8L 45 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 64042,
+            "koubeicount": 6,
+            "specname": "2024款 A8L 50 TFSI quattro 臻选型"
+          },
+          {
+            "specid": 64043,
+            "koubeicount": 1,
+            "specname": "2024款 A8L 50 TFSI quattro 尊享型"
+          },
+          {
+            "specid": 64044,
+            "koubeicount": 6,
+            "specname": "2024款 A8L 55 TFSI quattro 旗舰型"
+          },
+          {
+            "specid": 64046,
+            "koubeicount": 0,
+            "specname": "2024款 A8L Horch创始人版 经典型"
+          },
+          {
+            "specid": 64047,
+            "koubeicount": 0,
+            "specname": "2024款 A8L Horch创始人版 传奇型"
+          },
+          {
+            "specid": 67356,
+            "koubeicount": 1,
+            "specname": "2024款 A8L Horch创始人版 55TFSI"
+          },
+          {
+            "specid": 64045,
+            "koubeicount": 0,
+            "specname": "2024款 A8L 60 TFSI quattro"
+          },
+          {
+            "specid": 65482,
+            "koubeicount": 1,
+            "specname": "2024款 A8L Horch创始人版 60TFSI"
+          },
+          {
+            "specid": 58754,
+            "koubeicount": 2,
+            "specname": "2023款 A8L 45 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 58755,
+            "koubeicount": 1,
+            "specname": "2023款 A8L 50 TFSI quattro 臻选型"
+          },
+          {
+            "specid": 58757,
+            "koubeicount": 3,
+            "specname": "2023款 A8L 50 TFSI quattro 尊享型"
+          },
+          {
+            "specid": 58708,
+            "koubeicount": 1,
+            "specname": "2023款 A8L 55 TFSI quattro 旗舰型"
+          },
+          {
+            "specid": 58756,
+            "koubeicount": 0,
+            "specname": "2023款 A8L 60 TFSI quattro"
+          },
+          {
+            "specid": 51982,
+            "koubeicount": 12,
+            "specname": "2022款 A8L 50 TFSI quattro 舒适型典藏版"
+          },
+          {
+            "specid": 51983,
+            "koubeicount": 4,
+            "specname": "2022款 A8L 50 TFSI quattro 豪华型典藏版"
+          },
+          {
+            "specid": 56424,
+            "koubeicount": 1,
+            "specname": "2022款 A8L Horch创始人版 经典型"
+          },
+          {
+            "specid": 54078,
+            "koubeicount": 1,
+            "specname": "2022款 A8L Horch创始人版 传奇型"
+          },
+          {
+            "specid": 56425,
+            "koubeicount": 0,
+            "specname": "2022款 A8L Horch创始人版 双色臻藏型"
+          },
+          {
+            "specid": 56426,
+            "koubeicount": 0,
+            "specname": "2022款 A8L Horch创始人版 双色典藏型"
+          },
+          {
+            "specid": 51984,
+            "koubeicount": 3,
+            "specname": "2022款 A8L 55 TFSI quattro 豪华型典藏版"
+          },
+          {
+            "specid": 51985,
+            "koubeicount": 4,
+            "specname": "2022款 A8L 55 TFSI quattro 尊贵型典藏版"
+          },
+          {
+            "specid": 53150,
+            "koubeicount": 1,
+            "specname": "2022款 A8L 60 TFSI quattro 尊贵型典藏版"
+          },
+          {
+            "specid": 49410,
+            "koubeicount": 0,
+            "specname": "2021款 A8L 艺术车"
+          },
+          {
+            "specid": 47759,
+            "koubeicount": 8,
+            "specname": "2021款 A8L 50 TFSI quattro 舒适型"
+          },
+          {
+            "specid": 47760,
+            "koubeicount": 1,
+            "specname": "2021款 A8L 50 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 47761,
+            "koubeicount": 10,
+            "specname": "2021款 A8L 55 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 47762,
+            "koubeicount": 2,
+            "specname": "2021款 A8L 55 TFSI quattro 尊贵型"
+          },
+          {
+            "specid": 50018,
+            "koubeicount": 0,
+            "specname": "2021款 A8L 60 TFSI quattro 尊贵型"
+          },
+          {
+            "specid": 45535,
+            "koubeicount": 0,
+            "specname": "2020款 A8L Security"
+          },
+          {
+            "specid": 38601,
+            "koubeicount": 12,
+            "specname": "2019款 A8L 50 TFSI quattro 舒适型"
+          },
+          {
+            "specid": 38602,
+            "koubeicount": 9,
+            "specname": "2019款 A8L 50 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 41076,
+            "koubeicount": 21,
+            "specname": "2019款 Plus A8L 50 TFSI quattro 舒适型"
+          },
+          {
+            "specid": 41077,
+            "koubeicount": 13,
+            "specname": "2019款 Plus A8L 50 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 46620,
+            "koubeicount": 1,
+            "specname": "2019款 改款 Plus A8L 50 TFSI quattro 舒适型"
+          },
+          {
+            "specid": 46621,
+            "koubeicount": 1,
+            "specname": "2019款 改款 Plus A8L 50 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 38603,
+            "koubeicount": 0,
+            "specname": "2019款 A8L 55 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 38604,
+            "koubeicount": 0,
+            "specname": "2019款 A8L 55 TFSI quattro 尊贵型"
+          },
+          {
+            "specid": 41078,
+            "koubeicount": 52,
+            "specname": "2019款 Plus A8L 55 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 41079,
+            "koubeicount": 9,
+            "specname": "2019款 Plus A8L 55 TFSI quattro 尊贵型"
+          },
+          {
+            "specid": 46622,
+            "koubeicount": 0,
+            "specname": "2019款 改款 Plus A8L 55 TFSI quattro 豪华型"
+          },
+          {
+            "specid": 46623,
+            "koubeicount": 1,
+            "specname": "2019款 改款 Plus A8L 55 TFSI quattro 尊贵型"
+          },
+          {
+            "specid": 33823,
+            "koubeicount": 0,
+            "specname": "2018款 A8 50 TDI quattro"
+          },
+          {
+            "specid": 32252,
+            "koubeicount": 0,
+            "specname": "2018款 A8L 55 TFSI quattro"
+          },
+          {
+            "specid": 33092,
+            "koubeicount": 0,
+            "specname": "2018款 A8 Sport Exterior Package"
+          },
+          {
+            "specid": 31018,
+            "koubeicount": 0,
+            "specname": "2018款 A8 基本型"
+          },
+          {
+            "specid": 31019,
+            "koubeicount": 0,
+            "specname": "2018款 A8L 基本型"
+          },
+          {
+            "specid": 31033,
+            "koubeicount": 0,
+            "specname": "2018款 A8L W12 quattro"
+          },
+          {
+            "specid": 33896,
+            "koubeicount": 4,
+            "specname": "2018款 A8L 55 TFSI quattro投放版精英型"
+          },
+          {
+            "specid": 33897,
+            "koubeicount": 6,
+            "specname": "2018款 A8L 55 TFSI quattro投放版尊享型"
+          },
+          {
+            "specid": 33750,
+            "koubeicount": 3,
+            "specname": "2018款 A8L 55 TFSI quattro豪华型"
+          },
+          {
+            "specid": 33678,
+            "koubeicount": 4,
+            "specname": "2018款 A8L 55 TFSI quattro尊贵型"
+          },
+          {
+            "specid": 29089,
+            "koubeicount": 1,
+            "specname": "2017款 A8L 40 TFSI 舒适型"
+          },
+          {
+            "specid": 29092,
+            "koubeicount": 4,
+            "specname": "2017款 A8L 45 TFSI quattro舒适型"
+          },
+          {
+            "specid": 29945,
+            "koubeicount": 3,
+            "specname": "2017款 A8L 45 TFSI quattro卓越先锋版"
+          },
+          {
+            "specid": 32827,
+            "koubeicount": 1,
+            "specname": "2017款 A8L 45 TFSI quattro卓越先锋典藏版"
+          },
+          {
+            "specid": 29093,
+            "koubeicount": 6,
+            "specname": "2017款 A8L 45 TFSI quattro豪华型"
+          },
+          {
+            "specid": 29946,
+            "koubeicount": 5,
+            "specname": "2017款 A8L 45 TFSI quattro领先精英版"
+          },
+          {
+            "specid": 32828,
+            "koubeicount": 5,
+            "specname": "2017款 A8L 45 TFSI quattro领先精英典藏版"
+          },
+          {
+            "specid": 29094,
+            "koubeicount": 1,
+            "specname": "2017款 A8L 50 TFSI quattro豪华型"
+          },
+          {
+            "specid": 32829,
+            "koubeicount": 1,
+            "specname": "2017款 A8L 50 TFSI quattro都市尊荣典藏版"
+          },
+          {
+            "specid": 29095,
+            "koubeicount": 2,
+            "specname": "2017款 A8L 50 TFSI quattro尊贵型"
+          },
+          {
+            "specid": 29096,
+            "koubeicount": 1,
+            "specname": "2017款 A8L 60 TFSI quattro豪华型"
+          },
+          {
+            "specid": 29097,
+            "koubeicount": 1,
+            "specname": "2017款 A8L 6.3 FSI W12 quattro旗舰型"
+          },
+          {
+            "specid": 25996,
+            "koubeicount": 0,
+            "specname": "2016款 A8L extended"
+          },
+          {
+            "specid": 23369,
+            "koubeicount": 0,
+            "specname": "2016款 A8 Edition 21"
+          },
+          {
+            "specid": 24327,
+            "koubeicount": 0,
+            "specname": "2016款 A8L 4.0T Sport"
+          },
+          {
+            "specid": 25189,
+            "koubeicount": 1,
+            "specname": "2016款 A8L 30 FSI 舒适型"
+          },
+          {
+            "specid": 25193,
+            "koubeicount": 0,
+            "specname": "2016款 A8L 40 hybrid"
+          },
+          {
+            "specid": 25188,
+            "koubeicount": 2,
+            "specname": "2016款 A8L 45 TFSI quattro时尚型"
+          },
+          {
+            "specid": 25190,
+            "koubeicount": 14,
+            "specname": "2016款 A8L 45 TFSI quattro舒适型"
+          },
+          {
+            "specid": 25191,
+            "koubeicount": 10,
+            "specname": "2016款 A8L 45 TFSI quattro豪华型"
+          },
+          {
+            "specid": 25192,
+            "koubeicount": 1,
+            "specname": "2016款 A8L 45 TFSI quattro专享型"
+          },
+          {
+            "specid": 25194,
+            "koubeicount": 1,
+            "specname": "2016款 A8L 50 TFSI quattro豪华型"
+          },
+          {
+            "specid": 25195,
+            "koubeicount": 0,
+            "specname": "2016款 A8L 50 TFSI quattro尊贵型"
+          },
+          {
+            "specid": 25196,
+            "koubeicount": 0,
+            "specname": "2016款 A8L 50 TFSI quattro专享型"
+          },
+          {
+            "specid": 25197,
+            "koubeicount": 0,
+            "specname": "2016款 A8L 60 TFSI quattro豪华型"
+          },
+          {
+            "specid": 25198,
+            "koubeicount": 0,
+            "specname": "2016款 A8L 60 TFSI quattro专享型"
+          },
+          {
+            "specid": 25199,
+            "koubeicount": 0,
+            "specname": "2016款 A8L 6.3 FSI W12 quattro旗舰型"
+          },
+          {
+            "specid": 25200,
+            "koubeicount": 1,
+            "specname": "2016款 A8L 6.3 FSI W12 quattro专享型"
+          },
+          {
+            "specid": 18052,
+            "koubeicount": 0,
+            "specname": "2014款 A8L Security"
+          },
+          {
+            "specid": 16733,
+            "koubeicount": 0,
+            "specname": "2014款 A8 基本型"
+          },
+          {
+            "specid": 17004,
+            "koubeicount": 0,
+            "specname": "2014款 A8L 4.0T quattro"
+          },
+          {
+            "specid": 16727,
+            "koubeicount": 0,
+            "specname": "2014款 A8L W12"
+          },
+          {
+            "specid": 19738,
+            "koubeicount": 0,
+            "specname": "2014款 A8L 30 FSI 舒适型"
+          },
+          {
+            "specid": 19841,
+            "koubeicount": 2,
+            "specname": "2014款 A8L 40 hybrid"
+          },
+          {
+            "specid": 19739,
+            "koubeicount": 25,
+            "specname": "2014款 A8L 45 TFSI quattro舒适型"
+          },
+          {
+            "specid": 19740,
+            "koubeicount": 32,
+            "specname": "2014款 A8L 45 TFSI quattro豪华型"
+          },
+          {
+            "specid": 19741,
+            "koubeicount": 1,
+            "specname": "2014款 A8L 45 TFSI quattro专享型"
+          },
+          {
+            "specid": 19742,
+            "koubeicount": 2,
+            "specname": "2014款 A8L 50 TFSI quattro豪华型"
+          },
+          {
+            "specid": 19743,
+            "koubeicount": 5,
+            "specname": "2014款 A8L 50 TFSI quattro尊贵型"
+          },
+          {
+            "specid": 19744,
+            "koubeicount": 0,
+            "specname": "2014款 A8L 50 TFSI quattro专享型"
+          },
+          {
+            "specid": 19745,
+            "koubeicount": 1,
+            "specname": "2014款 A8L 60 TFSI quattro豪华型"
+          },
+          {
+            "specid": 19746,
+            "koubeicount": 2,
+            "specname": "2014款 A8L 60 TFSI quattro专享型"
+          },
+          {
+            "specid": 19747,
+            "koubeicount": 0,
+            "specname": "2014款 A8L 6.3 FSI W12 quattro旗舰型"
+          },
+          {
+            "specid": 19748,
+            "koubeicount": 0,
+            "specname": "2014款 A8L 6.3 FSI W12 quattro专享型"
+          },
+          {
+            "specid": 16139,
+            "koubeicount": 0,
+            "specname": "2013款 A8 hybrid"
+          },
+          {
+            "specid": 16205,
+            "koubeicount": 0,
+            "specname": "2013款 A8L TDI"
+          },
+          {
+            "specid": 13812,
+            "koubeicount": 1,
+            "specname": "2013款 A8L 30 FSI 舒适型"
+          },
+          {
+            "specid": 13813,
+            "koubeicount": 0,
+            "specname": "2013款 A8L 30 FSI 专享型"
+          },
+          {
+            "specid": 10695,
+            "koubeicount": 0,
+            "specname": "2013款 A8L 40 hybrid"
+          },
+          {
+            "specid": 13820,
+            "koubeicount": 21,
+            "specname": "2013款 A8L 45 TFSI quattro舒适型"
+          },
+          {
+            "specid": 13821,
+            "koubeicount": 21,
+            "specname": "2013款 A8L 45 TFSI quattro豪华型"
+          },
+          {
+            "specid": 13818,
+            "koubeicount": 6,
+            "specname": "2013款 A8L 45 TFSI quattro专享型"
+          },
+          {
+            "specid": 13822,
+            "koubeicount": 2,
+            "specname": "2013款 A8L 50 TFSI quattro舒适型"
+          },
+          {
+            "specid": 13823,
+            "koubeicount": 0,
+            "specname": "2013款 A8L 50 TFSI quattro豪华型"
+          },
+          {
+            "specid": 13824,
+            "koubeicount": 6,
+            "specname": "2013款 A8L 50 TFSI quattro尊贵型"
+          },
+          {
+            "specid": 13817,
+            "koubeicount": 3,
+            "specname": "2013款 A8L 50 TFSI quattro专享型"
+          },
+          {
+            "specid": 13814,
+            "koubeicount": 3,
+            "specname": "2013款 A8L 55 TFSI quattro豪华型"
+          },
+          {
+            "specid": 13815,
+            "koubeicount": 4,
+            "specname": "2013款 A8L 55 TFSI quattro尊贵型"
+          },
+          {
+            "specid": 13816,
+            "koubeicount": 1,
+            "specname": "2013款 A8L 55 TFSI quattro专享型"
+          },
+          {
+            "specid": 13828,
+            "koubeicount": 1,
+            "specname": "2013款 A8L 6.3 FSI W12 quattro旗舰型"
+          },
+          {
+            "specid": 13829,
+            "koubeicount": 4,
+            "specname": "2013款 A8L 6.3 FSI W12 quattro专享型"
+          },
+          {
+            "specid": 9471,
+            "koubeicount": 0,
+            "specname": "2012款 A8L Security"
+          },
+          {
+            "specid": 12097,
+            "koubeicount": 3,
+            "specname": "2012款 A8L 45 TFSI quattro舒适型"
+          },
+          {
+            "specid": 12099,
+            "koubeicount": 13,
+            "specname": "2012款 A8L 45 TFSI quattro豪华型"
+          },
+          {
+            "specid": 12100,
+            "koubeicount": 1,
+            "specname": "2012款 A8L 50 TFSI quattro舒适型"
+          },
+          {
+            "specid": 12101,
+            "koubeicount": 1,
+            "specname": "2012款 A8L 50 TFSI quattro豪华型"
+          },
+          {
+            "specid": 12103,
+            "koubeicount": 3,
+            "specname": "2012款 A8L 50 TFSI quattro尊贵型"
+          },
+          {
+            "specid": 12102,
+            "koubeicount": 1,
+            "specname": "2012款 A8L 6.3 FSI W12 quattro"
+          },
+          {
+            "specid": 6618,
+            "koubeicount": 0,
+            "specname": "2011款 A8 基本型"
+          },
+          {
+            "specid": 8967,
+            "koubeicount": 5,
+            "specname": "2011款 A8L 3.0 TFSI quattro舒适型(213kW)"
+          },
+          {
+            "specid": 8968,
+            "koubeicount": 6,
+            "specname": "2011款 A8L 3.0 TFSI quattro豪华型(213kW)"
+          },
+          {
+            "specid": 8966,
+            "koubeicount": 1,
+            "specname": "2011款 A8L 3.0 TFSI quattro舒适型(245kW)"
+          },
+          {
+            "specid": 8965,
+            "koubeicount": 1,
+            "specname": "2011款 A8L 3.0 TFSI quattro豪华型(245kW)"
+          },
+          {
+            "specid": 7533,
+            "koubeicount": 5,
+            "specname": "2011款 A8L 3.0 TFSI quattro尊贵型(245kW)"
+          },
+          {
+            "specid": 7534,
+            "koubeicount": 1,
+            "specname": "2011款 A8L W12 6.3 FSI quattro"
+          },
+          {
+            "specid": 7151,
+            "koubeicount": 0,
+            "specname": "2010款 A8 混合动力版"
+          },
+          {
+            "specid": 15168,
+            "koubeicount": 0,
+            "specname": "2010款 A8L 6.0 W12 quattro防弹版"
+          },
+          {
+            "specid": 6463,
+            "koubeicount": 3,
+            "specname": "2010款 A8L 3.0 FSI 百年纪念版"
+          },
+          {
+            "specid": 6464,
+            "koubeicount": 1,
+            "specname": "2010款 A8L 6.0 W12 quattro 百年纪念版"
+          },
+          {
+            "specid": 4689,
+            "koubeicount": 2,
+            "specname": "2009款 A8L 2.8 FSI 标准型"
+          },
+          {
+            "specid": 5387,
+            "koubeicount": 0,
+            "specname": "2009款 A8L 3.0 FSI 标准型"
+          },
+          {
+            "specid": 5518,
+            "koubeicount": 1,
+            "specname": "2009款 A8L 3.0 FSI 豪华型"
+          },
+          {
+            "specid": 5519,
+            "koubeicount": 1,
+            "specname": "2009款 A8L 3.0 FSI 尊贵型"
+          },
+          {
+            "specid": 4693,
+            "koubeicount": 3,
+            "specname": "2009款 A8L 4.2 FSI quattro 尊贵型"
+          },
+          {
+            "specid": 4863,
+            "koubeicount": 1,
+            "specname": "2009款 A8L 6.0 W12 quattro 旗舰型"
+          },
+          {
+            "specid": 4694,
+            "koubeicount": 0,
+            "specname": "2009款 A8L 6.0 W12 quattro 专享尊崇型"
+          },
+          {
+            "specid": 3532,
+            "koubeicount": 1,
+            "specname": "2008款 A8L 2.8 FSI标准型"
+          },
+          {
+            "specid": 3533,
+            "koubeicount": 1,
+            "specname": "2008款 A8L 2.8 FSI豪华型"
+          },
+          {
+            "specid": 3530,
+            "koubeicount": 0,
+            "specname": "2008款 A8L 3.2 FSI标准型"
+          },
+          {
+            "specid": 3531,
+            "koubeicount": 0,
+            "specname": "2008款 A8L 3.2 FSI豪华型"
+          },
+          {
+            "specid": 3529,
+            "koubeicount": 0,
+            "specname": "2008款 A8L 4.2 FSI尊贵型"
+          },
+          {
+            "specid": 3528,
+            "koubeicount": 1,
+            "specname": "2008款 A8L 6.0 W12至尊旗舰型"
+          },
+          {
+            "specid": 2595,
+            "koubeicount": 0,
+            "specname": "2007款 A8L 3.2 FSI 标准型"
+          },
+          {
+            "specid": 3044,
+            "koubeicount": 1,
+            "specname": "2007款 A8L 3.2 FSI 豪华型"
+          },
+          {
+            "specid": 3045,
+            "koubeicount": 0,
+            "specname": "2007款 A8L 3.2 FSI 技术型"
+          },
+          {
+            "specid": 3049,
+            "koubeicount": 0,
+            "specname": "2007款 A8L 3.2 FSI 尊享型"
+          },
+          {
+            "specid": 2596,
+            "koubeicount": 1,
+            "specname": "2007款 A8L 4.2 FSI quattro尊贵型"
+          },
+          {
+            "specid": 2597,
+            "koubeicount": 1,
+            "specname": "2006款 A8L 6.0 W12 quattro旗舰型"
+          },
+          {
+            "specid": 1848,
+            "koubeicount": 0,
+            "specname": "2005款 A8L 3.0L"
+          },
+          {
+            "specid": 1849,
+            "koubeicount": 0,
+            "specname": "2005款 A8L 4.2L"
+          },
+          {
+            "specid": 1850,
+            "koubeicount": 0,
+            "specname": "2005款 A8L 6.0L W12"
+          },
+          {
+            "specid": 479,
+            "koubeicount": 0,
+            "specname": "2004款 A8L 3.0L"
+          },
+          {
+            "specid": 467,
+            "koubeicount": 1,
+            "specname": "2004款 A8L 3.7L"
+          },
+          {
+            "specid": 476,
+            "koubeicount": 0,
+            "specname": "2004款 A8L 4.2L"
+          }
+        ]
+      }
+    ],
+    "structuredlist": [
+      {
+        "id": 0,
+        "ge": 0,
+        "name": "全部",
+        "Summary": [],
+        "IsHide": 0
+      },
+      {
+        "id": 1,
+        "ge": 10,
+        "name": "最满意",
+        "Summary": [],
+        "IsHide": 1
+      },
+      {
+        "id": 2,
+        "ge": 11,
+        "name": "最不满意",
+        "Summary": [],
+        "IsHide": 1
+      },
+      {
+        "id": 3,
+        "ge": 4,
+        "name": "空间",
+        "Summary": [],
+        "IsHide": 0
+      },
+      {
+        "id": 4,
+        "ge": 5,
+        "name": "驾驶感受",
+        "Summary": [],
+        "IsHide": 0
+      },
+      {
+        "id": 6,
+        "ge": 7,
+        "name": "油耗",
+        "Summary": [],
+        "IsHide": 0
+      },
+      {
+        "id": 8,
+        "ge": 1,
+        "name": "外观",
+        "Summary": [],
+        "IsHide": 0
+      },
+      {
+        "id": 9,
+        "ge": 2,
+        "name": "内饰",
+        "Summary": [],
+        "IsHide": 0
+      },
+      {
+        "id": 15,
+        "ge": 8,
+        "name": "性价比",
+        "Summary": [],
+        "IsHide": 0
+      },
+      {
+        "id": 40,
+        "ge": 40,
+        "name": "配置",
+        "Summary": [],
+        "IsHide": 0
+      },
+      {
+        "id": 5,
+        "ge": 6,
+        "name": "操控",
+        "Summary": [],
+        "IsHide": 0
+      },
+      {
+        "id": 7,
+        "ge": 3,
+        "name": "舒适性",
+        "Summary": [],
+        "IsHide": 0
+      }
+    ],
+    "seriesScoreList": [
+      {
+        "typeName": "空间",
+        "typeKey": 3,
+        "rank": 0,
+        "score": 4.767
+      },
+      {
+        "typeName": "驾驶感受",
+        "typeKey": 4,
+        "rank": 0,
+        "score": 4.5625
+      },
+      {
+        "typeName": "油耗",
+        "typeKey": 6,
+        "rank": 0,
+        "score": 4.1091
+      },
+      {
+        "typeName": "外观",
+        "typeKey": 8,
+        "rank": 0,
+        "score": 4.9943
+      },
+      {
+        "typeName": "内饰",
+        "typeKey": 9,
+        "rank": 0,
+        "score": 4.3364
+      },
+      {
+        "typeName": "性价比",
+        "typeKey": 15,
+        "rank": 0,
+        "score": 4.45
+      },
+      {
+        "typeName": "配置",
+        "typeKey": 40,
+        "rank": 0,
+        "score": 3.7682
+      }
+    ],
+    "average": "4.43",
+    "seriesAverage": "4.43",
+    "seriesid": 146,
+    "seriesname": "奥迪A8",
+    "serieslogo": "https://car2.autoimg.cn/cardfs/product/g32/M04/0C/95/480x360_autohomecar__Chtk2WgkceWAO1WzACU_G5EOAZ0103.jpg",
+    "pnglogo": "http://car3.autoimg.cn/cardfs/series/g30/M01/F8/14/400x0_autohomecar__ChxknGMS5B2AYOjAAAgxYmQD0QY348.png.webp",
+    "brandlogo": "https://car3.autoimg.cn/cardfs/series/g28/M01/F6/71/480x360_autohomecar__CjIFVGTIoWqAdlH5AABfFDX2Peo393.png",
+    "brandId": 33,
+    "brandName": "奥迪",
+    "year": 0,
+    "specid": 0,
+    "specname": "",
+    "speclogo": "",
+    "fctid": 79,
+    "fctname": "奥迪(进口)",
+    "averagenum": 0,
+    "maxPrice": 0,
+    "minPrice": 0,
+    "levelrank": 0,
+    "levelseriescount": 0,
+    "levelid": 6,
+    "levelname": "",
+    "consumption": "0",
+    "consumption_battery": "0",
+    "powertype": 1,
+    "powertypefeelingid": 6,
+    "consumptionnum": 0,
+    "isbattery": 0,
+    "isloadmore": 1,
+    "isinquiry": 1,
+    "pageindex": 1,
+    "pagesize": 10,
+    "pagecount": 48,
+    "rowcount": 473,
+    "newCarPPH": 0,
+    "onsellrowcount": 0,
+    "rowcountString": "共473篇/在售0篇",
+    "showQualityForm": 1,
+    "qualityFormUrl": "https://k.m.autohome.com.cn/quality/beforeSubmit?seriesid=146",
+    "dataType": 0,
+    "dataSource": "koubei",
+    "seriescount": 0,
+    "list": [
+      {
+        "photoCount": 7,
+        "mediaCount": 7,
+        "koubeiType": 1,
+        "infoId": 0,
+        "dataType": "koubei",
+        "userid": 35114076,
+        "username": "九离十",
+        "userimage": "http://i2.autoimg.cn/userscenter/g30/M0A/CC/4E/120X120_0_q87_autohomecar__ChxknGT-zx6AOpTtAACHYyvFUVQ452.png",
+        "carownerlevels": 2,
+        "isauth": "0",
+        "posttime": "2024-09-05",
+        "posttimeV2": "2024-09-05",
+        "viewcount": 98152,
+        "commentcount": 18,
+        "helpfulcount": 53,
+        "specid": 64042,
+        "specname": "2024款 A8L 50 TFSI quattro 臻选型",
+        "bigV": 0,
+        "userBigVLevel": 0,
+        "recommend": 0,
+        "isbattery": 0,
+        "actual_oil_consumption": "11.0",
+        "actual_battery_consumption": "0.0",
+        "powertypefeelingid": 16,
+        "powertype": 8,
+        "distance": "5100km",
+        "buyprice": "70.00万",
+        "buyplace": "成都",
+        "boughtDate": "2024-05",
+        "dealerName": "成都兴三和奥迪",
+        "location": "四川",
+        "dealerId": 83432,
+        "apperance": 5,
+        "internal": 4,
+        "comfortableness": 0,
+        "space": 4,
+        "power": 5,
+        "maneuverability": 0,
+        "oilConsumption": 4,
+        "costEfficient": 4,
+        "averageScore": 4.14,
+        "scoreList": [
+          {
+            "name": "空间",
+            "value": "4"
+          },
+          {
+            "name": "驾驶感受",
+            "value": "5"
+          },
+          {
+            "name": "油耗",
+            "value": "4"
+          },
+          {
+            "name": "外观",
+            "value": "5"
+          },
+          {
+            "name": "内饰",
+            "value": "4"
+          },
+          {
+            "name": "性价比",
+            "value": "4"
+          },
+          {
+            "name": "配置",
+            "value": "3"
+          }
+        ],
+        "purposes": [
+          {
+            "id": 5,
+            "name": "跑长途"
+          },
+          {
+            "id": 6,
+            "name": "商务差旅"
+          }
+        ],
+        "medals": [
+          {
+            "type": 2,
+            "name": "精华"
+          }
+        ],
+        "feeling_summary": "谈生意的好帮手奥迪A8",
+        "contents": [
+          {
+            "structuredid": 1,
+            "structuredname": "满意",
+            "content": "如果不是公司需要，我还真有点不太敢开它，因为在我的印象中，开奥迪A8的都是非富即贵，要么公司用车，要么公务用..."
+          },
+          {
+            "structuredid": 2,
+            "structuredname": "不满意",
+            "content": "不满意的是价格稍稍有点偏贵，当初买车我都是想了又想，忍了又忍才买下来的，只想提升一下自己的逼格。不过也带..."
+          }
+        ],
+        "carOwnershipPeriod": "5个月",
+        "newEnergyEval": 0,
+        "newEnergyUser": 0,
+        "showSignUp": 0,
+        "showPublishEval": 0,
+        "piclist": [
+          "https://k3.autoimg.cn/koubeidfs/g32/M05/70/D7/480x360_0_q87_autohomecar__ChxkPmbZ0jeAXiAeABFWandPVjQ615.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M03/70/E0/480x360_0_q87_autohomecar__Chtk2WbZ0jqAEa0jABTzkx_egA0144.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M00/70/E0/480x360_0_q87_autohomecar__Chtk2WbZ0kiAMixjAA--3e5K5yE943.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M00/70/E0/480x360_0_q87_autohomecar__Chtk2WbZ0kuAZBKIAA-eJKaOHe4106.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M02/70/D7/480x360_0_q87_autohomecar__ChxkPWbZ0lCAal6gAA4rBMHdN3U268.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M03/70/D8/480x360_0_q87_autohomecar__ChxkPmbZ0lWAN5ObAAr8qXOzzuo736.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M09/70/D8/480x360_0_q87_autohomecar__ChxkPmbZ0luALOIqABFi-SxqY_c103.jpg"
+        ],
+        "videolist": [],
+        "lastappend": "",
+        "ishasphoto": 1,
+        "drivingSkills": 0,
+        "multiImages": [
+          {
+            "koubeiId": 5435457,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g32/M05/70/D7/480x360_0_q87_autohomecar__ChxkPmbZ0jeAXiAeABFWandPVjQ615.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5435457,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g32/M03/70/E0/480x360_0_q87_autohomecar__Chtk2WbZ0jqAEa0jABTzkx_egA0144.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5435457,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g32/M00/70/E0/480x360_0_q87_autohomecar__Chtk2WbZ0kiAMixjAA--3e5K5yE943.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          }
+        ],
+        "showId": "01j71dvv3x6mt36d9m6mvg0000",
+        "syear": 2024,
+        "syearId": 19529,
+        "routinecruisingrange": 0,
+        "exinfolist": [
+          {
+            "name": "行驶里程",
+            "value": "5100km"
+          },
+          {
+            "name": "百公里油耗",
+            "value": "11.0L"
+          },
+          {
+            "name": "裸车购买价",
+            "value": "70.00万"
+          },
+          {
+            "name": "购买时间",
+            "value": "2024-05"
+          },
+          {
+            "name": "购买地点",
+            "value": "成都"
+          }
+        ],
+        "deliveryCycle": 0,
+        "springBattery": 0.0,
+        "springRange": 0,
+        "summerBattery": 0.0,
+        "summerRange": 0,
+        "winterBattery": 0.0,
+        "writeSeason": 0,
+        "winterCruisingRange": 0,
+        "Koubeiid": 5435457
+      },
+      {
+        "photoCount": 9,
+        "mediaCount": 9,
+        "koubeiType": 1,
+        "infoId": 0,
+        "dataType": "koubei",
+        "userid": 284488395,
+        "username": "Mr洪哥",
+        "userimage": "http://i2.autoimg.cn/userscenter/g1/M06/A1/DE/120x120_0_q87_autohomecar__ChsEmV3eSfyAG3uCAAA1HmTLWMk708.jpg.webp",
+        "carownerlevels": 0,
+        "isauth": "0",
+        "posttime": "2024-08-24",
+        "posttimeV2": "2024-08-24",
+        "viewcount": 60895,
+        "commentcount": 16,
+        "helpfulcount": 38,
+        "specid": 64042,
+        "specname": "2024款 A8L 50 TFSI quattro 臻选型",
+        "bigV": 0,
+        "userBigVLevel": 0,
+        "recommend": 0,
+        "isbattery": 0,
+        "actual_oil_consumption": "12.8",
+        "actual_battery_consumption": "0.0",
+        "powertypefeelingid": 16,
+        "powertype": 8,
+        "distance": "4600km",
+        "buyprice": "69.20万",
+        "buyplace": "成都",
+        "boughtDate": "2024-05",
+        "dealerName": "成都华运奥迪",
+        "location": "四川",
+        "dealerId": 123514,
+        "apperance": 5,
+        "internal": 5,
+        "comfortableness": 0,
+        "space": 5,
+        "power": 5,
+        "maneuverability": 0,
+        "oilConsumption": 4,
+        "costEfficient": 5,
+        "averageScore": 4.71,
+        "scoreList": [
+          {
+            "name": "空间",
+            "value": "5"
+          },
+          {
+            "name": "驾驶感受",
+            "value": "5"
+          },
+          {
+            "name": "油耗",
+            "value": "4"
+          },
+          {
+            "name": "外观",
+            "value": "5"
+          },
+          {
+            "name": "内饰",
+            "value": "5"
+          },
+          {
+            "name": "性价比",
+            "value": "5"
+          },
+          {
+            "name": "配置",
+            "value": "4"
+          }
+        ],
+        "purposes": [
+          {
+            "id": 1,
+            "name": "上下班"
+          },
+          {
+            "id": 4,
+            "name": "自驾游"
+          }
+        ],
+        "medals": [
+          {
+            "type": 2,
+            "name": "精华"
+          }
+        ],
+        "feeling_summary": "“大哥”的气质无可替代",
+        "contents": [
+          {
+            "structuredid": 1,
+            "structuredname": "满意",
+            "content": "奥迪给人的感觉就是低调中透着奢华，A8L作为品牌的旗舰，更是将这种气场发挥得淋漓尽致，开着它出门，时刻都能感..."
+          },
+          {
+            "structuredid": 2,
+            "structuredname": "不满意",
+            "content": "不满意的暂时没有，不过可以说一下不算问题的问题。A8L保有量相对比较低，路上的能见度不高，本身这算不上什么，..."
+          }
+        ],
+        "carOwnershipPeriod": "4个月",
+        "newEnergyEval": 0,
+        "newEnergyUser": 0,
+        "showSignUp": 0,
+        "showPublishEval": 0,
+        "piclist": [
+          "https://k3.autoimg.cn/koubeidfs/g32/M0B/50/F7/480x360_0_q87_autohomecar__Chtk2WbJqbKAMtgmAA71L8c1KfA042.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M01/50/EE/480x360_0_q87_autohomecar__ChxkPmbJqbyAAhuJAAsglHCVp3Y948.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M00/50/F7/480x360_0_q87_autohomecar__Chtk2WbJqcKABEoMAAWWB3BwPSc982.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M0A/50/EF/480x360_0_q87_autohomecar__ChxkPmbJqciAC5J5AAoVVA-4XIE276.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M00/50/F8/480x360_0_q87_autohomecar__Chtk2WbJqc6AJdDjAAmdhwTzcAM427.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M0B/50/F0/480x360_0_q87_autohomecar__ChxkPmbJqduAWXjEAA0Jcb0ZVQM656.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M0A/50/F9/480x360_0_q87_autohomecar__Chtk2WbJqeGASX_KAAsUSI82Tnw290.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M06/50/EF/480x360_0_q87_autohomecar__ChxkPWbJqeqABghMAAznBbtdjLo919.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M08/50/FB/480x360_0_q87_autohomecar__Chtk2WbJqfqAY1omAA5RabdTKlo749.jpg"
+        ],
+        "videolist": [],
+        "lastappend": "",
+        "ishasphoto": 1,
+        "drivingSkills": 0,
+        "multiImages": [
+          {
+            "koubeiId": 5427698,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g32/M0B/50/F7/480x360_0_q87_autohomecar__Chtk2WbJqbKAMtgmAA71L8c1KfA042.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5427698,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g32/M01/50/EE/480x360_0_q87_autohomecar__ChxkPmbJqbyAAhuJAAsglHCVp3Y948.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5427698,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g32/M00/50/F7/480x360_0_q87_autohomecar__Chtk2WbJqcKABEoMAAWWB3BwPSc982.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          }
+        ],
+        "showId": "01j61vsxxw6mt34dsp74w00000",
+        "syear": 2024,
+        "syearId": 19529,
+        "routinecruisingrange": 0,
+        "exinfolist": [
+          {
+            "name": "行驶里程",
+            "value": "4600km"
+          },
+          {
+            "name": "百公里油耗",
+            "value": "12.8L"
+          },
+          {
+            "name": "裸车购买价",
+            "value": "69.20万"
+          },
+          {
+            "name": "购买时间",
+            "value": "2024-05"
+          },
+          {
+            "name": "购买地点",
+            "value": "成都"
+          }
+        ],
+        "deliveryCycle": 0,
+        "springBattery": 0.0,
+        "springRange": 0,
+        "summerBattery": 0.0,
+        "summerRange": 0,
+        "winterBattery": 0.0,
+        "writeSeason": 0,
+        "winterCruisingRange": 0,
+        "Koubeiid": 5427698
+      },
+      {
+        "photoCount": 9,
+        "mediaCount": 9,
+        "koubeiType": 1,
+        "infoId": 0,
+        "dataType": "koubei",
+        "userid": 181414693,
+        "username": "成都车友6128099",
+        "userimage": "http://i2.autoimg.cn/userscenter/g30/M09/CC/32/120X120_0_q87_autohomecar__ChxknGT-zquAYmDRAACeZqOb33I506.png",
+        "carownerlevels": 0,
+        "isauth": "0",
+        "posttime": "2024-08-12",
+        "posttimeV2": "2024-08-12",
+        "viewcount": 166295,
+        "commentcount": 66,
+        "helpfulcount": 39,
+        "specid": 64041,
+        "specname": "2024款 A8L 45 TFSI quattro 豪华型",
+        "bigV": 0,
+        "userBigVLevel": 0,
+        "recommend": 1,
+        "isbattery": 0,
+        "actual_oil_consumption": "10.2",
+        "actual_battery_consumption": "0.0",
+        "powertypefeelingid": 6,
+        "powertype": 1,
+        "distance": "5378km",
+        "buyprice": "56.80万",
+        "buyplace": "成都",
+        "boughtDate": "2024-05",
+        "dealerName": "新元素奥迪锦江大道店（老店）",
+        "dealerId": 11871,
+        "apperance": 5,
+        "internal": 5,
+        "comfortableness": 0,
+        "space": 5,
+        "power": 4,
+        "maneuverability": 0,
+        "oilConsumption": 5,
+        "costEfficient": 5,
+        "averageScore": 4.71,
+        "scoreList": [
+          {
+            "name": "空间",
+            "value": "5"
+          },
+          {
+            "name": "驾驶感受",
+            "value": "4"
+          },
+          {
+            "name": "油耗",
+            "value": "5"
+          },
+          {
+            "name": "外观",
+            "value": "5"
+          },
+          {
+            "name": "内饰",
+            "value": "5"
+          },
+          {
+            "name": "性价比",
+            "value": "5"
+          },
+          {
+            "name": "配置",
+            "value": "4"
+          }
+        ],
+        "purposes": [],
+        "medals": [
+          {
+            "type": 2,
+            "name": "精华"
+          }
+        ],
+        "feeling_summary": "好开的a8",
+        "contents": [
+          {
+            "structuredid": 1,
+            "structuredname": "满意",
+            "content": "开了我这个a8三个多月，基本没出任何问题，所以奥迪的品质和做工还真的是值得信赖的。最初选车的时候还想买另一..."
+          },
+          {
+            "structuredid": 2,
+            "structuredname": "不满意",
+            "content": "A柱区域的风噪有点儿明显，不知道是不是个例，反正我听到尤其的大噪音，都不用跑高速，就平时跑到七十码就有了。..."
+          }
+        ],
+        "carOwnershipPeriod": "4个月",
+        "newEnergyEval": 0,
+        "newEnergyUser": 0,
+        "showSignUp": 0,
+        "showPublishEval": 0,
+        "piclist": [
+          "https://k2.autoimg.cn/koubeidfs/g32/M0A/2F/2C/480x360_0_q87_autohomecar__ChxkPma6AJuAdgmwAAkcnIvTCYE410.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M06/2F/2E/480x360_0_q87_autohomecar__ChxkPWa6AJaAUjNqAAkVhjV8rjI776.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M04/2F/2C/480x360_0_q87_autohomecar__ChxkPma6AJWAISA5AAZ_FCT7PZs988.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M07/2F/37/480x360_0_q87_autohomecar__Chtk2Wa6AJWAbAepAAZYQhAcj-s954.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M07/2F/2E/480x360_0_q87_autohomecar__ChxkPWa6AJqAEZNYAAswQMAJ9UY396.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M06/2F/2E/480x360_0_q87_autohomecar__ChxkPWa6AJmAT6YvAApd_aS-MYc924.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M02/2F/37/480x360_0_q87_autohomecar__Chtk2Wa6AJmAEL3bAAeC24eNJyg979.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M08/2F/37/480x360_0_q87_autohomecar__Chtk2Wa6AJmAXHVcAAb-PNMZlnc640.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M05/2F/2C/480x360_0_q87_autohomecar__ChxkPma6AJWAUTWXAAVlvGcSzW4330.jpg"
+        ],
+        "videolist": [],
+        "lastappend": "",
+        "ishasphoto": 1,
+        "drivingSkills": 0,
+        "multiImages": [
+          {
+            "koubeiId": 5418121,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g32/M07/2F/2E/480x360_0_q87_autohomecar__ChxkPWa6AJqAEZNYAAswQMAJ9UY396.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5418121,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g32/M06/2F/2E/480x360_0_q87_autohomecar__ChxkPWa6AJmAT6YvAApd_aS-MYc924.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5418121,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g32/M0A/2F/2C/480x360_0_q87_autohomecar__ChxkPma6AJuAdgmwAAkcnIvTCYE410.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          }
+        ],
+        "comments": [
+          {
+            "koubeiId": 5418121,
+            "userId": 26278802,
+            "userName": "忆往昔1993",
+            "commentId": 122303186,
+            "commentContent": "其实没必要把45扣掉。一是扣了就有点掩耳盗铃，显示内心的不自信。二是，能买得起哪怕是丐版A8的人都已经是人中龙凤了，嘲笑你买丐版的人和你完全不在一个层次，完全可以忽视他。"
+          }
+        ],
+        "showId": "01j5394s486mt32e1h68rg0000",
+        "syear": 2024,
+        "syearId": 19529,
+        "routinecruisingrange": 0,
+        "exinfolist": [
+          {
+            "name": "行驶里程",
+            "value": "5378km"
+          },
+          {
+            "name": "百公里油耗",
+            "value": "10.2L"
+          },
+          {
+            "name": "裸车购买价",
+            "value": "56.80万"
+          },
+          {
+            "name": "购买时间",
+            "value": "2024-05"
+          },
+          {
+            "name": "购买地点",
+            "value": "成都"
+          }
+        ],
+        "deliveryCycle": 0,
+        "springBattery": 0.0,
+        "springRange": 0,
+        "summerBattery": 0.0,
+        "summerRange": 0,
+        "winterBattery": 0.0,
+        "writeSeason": 0,
+        "winterCruisingRange": 0,
+        "Koubeiid": 5418121
+      },
+      {
+        "photoCount": 11,
+        "mediaCount": 11,
+        "koubeiType": 1,
+        "infoId": 0,
+        "dataType": "koubei",
+        "userid": 280359461,
+        "username": "大路得自己走",
+        "userimage": "http://i2.autoimg.cn/userscenter/g30/M0A/CC/4E/120X120_0_q87_autohomecar__ChxknGT-zx6AOpTtAACHYyvFUVQ452.png",
+        "carownerlevels": 0,
+        "isauth": "0",
+        "posttime": "2024-06-16",
+        "posttimeV2": "2024-06-16",
+        "viewcount": 72710,
+        "commentcount": 53,
+        "helpfulcount": 45,
+        "specid": 64041,
+        "specname": "2024款 A8L 45 TFSI quattro 豪华型",
+        "bigV": 0,
+        "userBigVLevel": 0,
+        "recommend": 0,
+        "isbattery": 0,
+        "actual_oil_consumption": "10.6",
+        "actual_battery_consumption": "0.0",
+        "powertypefeelingid": 6,
+        "powertype": 1,
+        "distance": "4650km",
+        "buyprice": "56.80万",
+        "buyplace": "成都",
+        "boughtDate": "2024-02",
+        "dealerName": "成都兴三和奥迪",
+        "location": "四川",
+        "dealerId": 83432,
+        "apperance": 5,
+        "internal": 4,
+        "comfortableness": 0,
+        "space": 5,
+        "power": 5,
+        "maneuverability": 0,
+        "oilConsumption": 5,
+        "costEfficient": 5,
+        "averageScore": 4.71,
+        "scoreList": [
+          {
+            "name": "空间",
+            "value": "5"
+          },
+          {
+            "name": "驾驶感受",
+            "value": "5"
+          },
+          {
+            "name": "油耗",
+            "value": "5"
+          },
+          {
+            "name": "外观",
+            "value": "5"
+          },
+          {
+            "name": "内饰",
+            "value": "4"
+          },
+          {
+            "name": "性价比",
+            "value": "5"
+          },
+          {
+            "name": "配置",
+            "value": "4"
+          }
+        ],
+        "purposes": [],
+        "medals": [
+          {
+            "type": 2,
+            "name": "精华"
+          }
+        ],
+        "feeling_summary": "低调沉稳，奥迪旗舰的魅力",
+        "contents": [
+          {
+            "structuredid": 1,
+            "structuredname": "满意",
+            "content": "满意的地方真的不要太多，最满意的话还是A8那无与伦比的豪华气场，开着它出门，都感觉自己自带主角光环，那种尊..."
+          },
+          {
+            "structuredid": 2,
+            "structuredname": "不满意",
+            "content": "说实话，开A8出门很容易被当成是司机，只有从后门下车才尊贵，从驾驶室下来的嘛，不认识的就会把我当司机看待，这..."
+          }
+        ],
+        "carOwnershipPeriod": "5个月",
+        "newEnergyEval": 0,
+        "newEnergyUser": 0,
+        "showSignUp": 0,
+        "showPublishEval": 0,
+        "piclist": [
+          "https://k3.autoimg.cn/koubeidfs/g32/M03/B8/A1/480x360_0_q87_autohomecar__ChxkPmZuYoOAfj8YAAeJMyRSSsA936.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M06/B8/A0/480x360_0_q87_autohomecar__Chtk2WZuYimANiNmAAhjWnUAumI718.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M02/B8/97/480x360_0_q87_autohomecar__ChxkPWZuYimAC21rAAgk47oQMEs189.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M03/B8/97/480x360_0_q87_autohomecar__ChxkPWZuYiuAExeVAAWSkCgQi5Q508.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M00/B8/97/480x360_0_q87_autohomecar__ChxkPWZuYimAUQHBAAZp1q0nVsA181.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M00/B8/A0/480x360_0_q87_autohomecar__Chtk2WZuYiqATHmFAAZeupmIPHg186.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M06/B8/92/480x360_0_q87_autohomecar__ChxkPmZuYjWAXLGVAAbATLYHUZ4659.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M02/B8/A0/480x360_0_q87_autohomecar__Chtk2WZuYiuAEoRfAAZSMsKiTuI264.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M08/B8/97/480x360_0_q87_autohomecar__ChxkPWZuYi2AVcN6AAfvJV3s8oQ047.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M0B/B8/91/480x360_0_q87_autohomecar__ChxkPmZuYi2AcvMQAAawGkHFxb4739.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M04/B8/9C/480x360_0_q87_autohomecar__ChxkPmZuYmqAMz8mAAgJ-142QvA728.jpg"
+        ],
+        "videolist": [],
+        "lastappend": "",
+        "ishasphoto": 1,
+        "drivingSkills": 0,
+        "multiImages": [
+          {
+            "koubeiId": 5378123,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g32/M00/B8/97/480x360_0_q87_autohomecar__ChxkPWZuYimAUQHBAAZp1q0nVsA181.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5378123,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g32/M00/B8/A0/480x360_0_q87_autohomecar__Chtk2WZuYiqATHmFAAZeupmIPHg186.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5378123,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g32/M06/B8/A0/480x360_0_q87_autohomecar__Chtk2WZuYimANiNmAAhjWnUAumI718.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          }
+        ],
+        "showId": "01j0fjz9ap6mskee1h68sg0000",
+        "syear": 2024,
+        "syearId": 19529,
+        "routinecruisingrange": 0,
+        "exinfolist": [
+          {
+            "name": "行驶里程",
+            "value": "4650km"
+          },
+          {
+            "name": "百公里油耗",
+            "value": "10.6L"
+          },
+          {
+            "name": "裸车购买价",
+            "value": "56.80万"
+          },
+          {
+            "name": "购买时间",
+            "value": "2024-02"
+          },
+          {
+            "name": "购买地点",
+            "value": "成都"
+          }
+        ],
+        "deliveryCycle": 0,
+        "springBattery": 0.0,
+        "springRange": 0,
+        "summerBattery": 0.0,
+        "summerRange": 0,
+        "winterBattery": 0.0,
+        "writeSeason": 0,
+        "winterCruisingRange": 0,
+        "Koubeiid": 5378123
+      },
+      {
+        "photoCount": 9,
+        "mediaCount": 9,
+        "koubeiType": 1,
+        "infoId": 0,
+        "dataType": "koubei",
+        "userid": 241502914,
+        "username": "小超超m",
+        "userimage": "http://i2.autoimg.cn/userscenter/g30/M0A/CC/43/120X120_0_q87_autohomecar__ChxknGT-zviALfCXAACbuINW9WI460.png",
+        "carownerlevels": 0,
+        "isauth": "0",
+        "posttime": "2024-06-15",
+        "posttimeV2": "2024-06-15",
+        "viewcount": 141891,
+        "commentcount": 18,
+        "helpfulcount": 28,
+        "specid": 64043,
+        "specname": "2024款 A8L 50 TFSI quattro 尊享型",
+        "bigV": 0,
+        "userBigVLevel": 0,
+        "recommend": 1,
+        "isbattery": 0,
+        "actual_oil_consumption": "11.3",
+        "actual_battery_consumption": "0.0",
+        "powertypefeelingid": 16,
+        "powertype": 8,
+        "distance": "8500km",
+        "buyprice": "95.00万",
+        "buyplace": "临沂",
+        "boughtDate": "2024-01",
+        "dealerName": "临沂奥通达奥迪",
+        "location": "山东",
+        "dealerId": 2101778,
+        "apperance": 5,
+        "internal": 5,
+        "comfortableness": 0,
+        "space": 4,
+        "power": 4,
+        "maneuverability": 0,
+        "oilConsumption": 4,
+        "costEfficient": 5,
+        "averageScore": 4.43,
+        "scoreList": [
+          {
+            "name": "空间",
+            "value": "4"
+          },
+          {
+            "name": "驾驶感受",
+            "value": "4"
+          },
+          {
+            "name": "油耗",
+            "value": "4"
+          },
+          {
+            "name": "外观",
+            "value": "5"
+          },
+          {
+            "name": "内饰",
+            "value": "5"
+          },
+          {
+            "name": "性价比",
+            "value": "5"
+          },
+          {
+            "name": "配置",
+            "value": "4"
+          }
+        ],
+        "purposes": [],
+        "medals": [
+          {
+            "type": 2,
+            "name": "精华"
+          }
+        ],
+        "feeling_summary": "努力买A8",
+        "contents": [
+          {
+            "structuredid": 1,
+            "structuredname": "满意",
+            "content": "最近生意上比较红火，打算买个车犒劳一下自己，一开始打算换一个新款的q7，但是去店里看到车以后就让我放弃了这..."
+          },
+          {
+            "structuredid": 2,
+            "structuredname": "不满意",
+            "content": "开习惯suv换到轿车上第一个感觉就是视野不行，就好像做地上开车似的（不过这应该是我的问题，买车前一个月一直..."
+          }
+        ],
+        "carOwnershipPeriod": "6个月",
+        "newEnergyEval": 0,
+        "newEnergyUser": 0,
+        "showSignUp": 0,
+        "showPublishEval": 0,
+        "piclist": [
+          "https://k2.autoimg.cn/koubeidfs/g32/M05/8E/8C/480x360_0_q87_autohomecar__Chtk2WZtfp6AMEaZAAynMpupDY8314.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M06/8E/8C/480x360_0_q87_autohomecar__Chtk2WZtfp6ASgVBAA1Pgtt5SHM732.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M08/8E/7E/480x360_0_q87_autohomecar__ChxkPmZtfp6ARpoQAAjt_pUXl4w646.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M09/8E/90/480x360_0_q87_autohomecar__Chtk2WZtfp-AZYeyAAeE0vNs8W0142.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M02/8E/82/480x360_0_q87_autohomecar__ChxkPWZtfpyAIKGAAAfE1q7M8Vo676.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g32/M07/8E/82/480x360_0_q87_autohomecar__ChxkPWZtfp6AfXIrAAyMJDr_pnA410.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M04/8E/8C/480x360_0_q87_autohomecar__Chtk2WZtfpyAE3BnAAuG2H6YeFg607.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M09/8E/7E/480x360_0_q87_autohomecar__ChxkPmZtfpyANSJCAAvCmVDRQlY315.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g32/M05/8E/82/480x360_0_q87_autohomecar__ChxkPWZtfpyAd5f1AAyi91oQPKo088.jpg"
+        ],
+        "videolist": [],
+        "lastappend": "",
+        "ishasphoto": 1,
+        "drivingSkills": 0,
+        "multiImages": [
+          {
+            "koubeiId": 5377856,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g32/M08/8E/7E/480x360_0_q87_autohomecar__ChxkPmZtfp6ARpoQAAjt_pUXl4w646.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5377856,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g32/M09/8E/90/480x360_0_q87_autohomecar__Chtk2WZtfp-AZYeyAAeE0vNs8W0142.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5377856,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g32/M02/8E/82/480x360_0_q87_autohomecar__ChxkPWZtfpyAIKGAAAfE1q7M8Vo676.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          }
+        ],
+        "showId": "01j0dvd8jk6mskedsr6mv00000",
+        "syear": 2024,
+        "syearId": 19529,
+        "routinecruisingrange": 0,
+        "exinfolist": [
+          {
+            "name": "行驶里程",
+            "value": "8500km"
+          },
+          {
+            "name": "百公里油耗",
+            "value": "11.3L"
+          },
+          {
+            "name": "裸车购买价",
+            "value": "95.00万"
+          },
+          {
+            "name": "购买时间",
+            "value": "2024-01"
+          },
+          {
+            "name": "购买地点",
+            "value": "临沂"
+          }
+        ],
+        "deliveryCycle": 1,
+        "springBattery": 0.0,
+        "springRange": 0,
+        "summerBattery": 0.0,
+        "summerRange": 0,
+        "winterBattery": 0.0,
+        "writeSeason": 0,
+        "winterCruisingRange": 0,
+        "Koubeiid": 5377856
+      },
+      {
+        "photoCount": 9,
+        "mediaCount": 9,
+        "koubeiType": 1,
+        "infoId": 0,
+        "dataType": "koubei",
+        "userid": 278514901,
+        "username": "清醒过来情绪",
+        "userimage": "http://i2.autoimg.cn/userscenter/g30/M05/0C/14/120X120_0_q87_autohomecar__CjIFU2T-zjSAT0j4AADhlxjmRi0808.png",
+        "carownerlevels": 0,
+        "isauth": "0",
+        "posttime": "2024-04-27",
+        "posttimeV2": "2024-04-27",
+        "viewcount": 165094,
+        "commentcount": 20,
+        "helpfulcount": 54,
+        "specid": 64044,
+        "specname": "2024款 A8L 55 TFSI quattro 旗舰型",
+        "bigV": 0,
+        "userBigVLevel": 0,
+        "recommend": 1,
+        "isbattery": 0,
+        "actual_oil_consumption": "11.5",
+        "actual_battery_consumption": "0.0",
+        "powertypefeelingid": 16,
+        "powertype": 8,
+        "distance": "7314km",
+        "buyprice": "96.30万",
+        "buyplace": "潍坊",
+        "boughtDate": "2023-12",
+        "dealerName": "寿光广华奥迪",
+        "location": "山东",
+        "dealerId": 2105365,
+        "apperance": 5,
+        "internal": 4,
+        "comfortableness": 0,
+        "space": 5,
+        "power": 5,
+        "maneuverability": 0,
+        "oilConsumption": 5,
+        "costEfficient": 5,
+        "averageScore": 4.86,
+        "scoreList": [
+          {
+            "name": "空间",
+            "value": "5"
+          },
+          {
+            "name": "驾驶感受",
+            "value": "5"
+          },
+          {
+            "name": "油耗",
+            "value": "5"
+          },
+          {
+            "name": "外观",
+            "value": "5"
+          },
+          {
+            "name": "内饰",
+            "value": "4"
+          },
+          {
+            "name": "性价比",
+            "value": "5"
+          },
+          {
+            "name": "配置",
+            "value": "5"
+          }
+        ],
+        "purposes": [],
+        "medals": [
+          {
+            "type": 2,
+            "name": "精华"
+          }
+        ],
+        "feeling_summary": "稳重的A8我非常满意",
+        "contents": [
+          {
+            "structuredid": 1,
+            "structuredname": "满意",
+            "content": "我最喜欢的就是它的设计了，简约而又不失高雅，每一个细节都充满了艺术感。车身的线条流畅自然，完美地融合了现..."
+          },
+          {
+            "structuredid": 2,
+            "structuredname": "不满意",
+            "content": "对于这辆旗舰级轿车，我对其期望值非常高，然而，在行驶过程中，尤其是经过减速带时，主驾驶门板里偶尔会传出轻微..."
+          }
+        ],
+        "carOwnershipPeriod": "5个月",
+        "newEnergyEval": 0,
+        "newEnergyUser": 0,
+        "showSignUp": 0,
+        "showPublishEval": 0,
+        "piclist": [
+          "https://k3.autoimg.cn/koubeidfs/g31/M08/C6/B5/480x360_0_q87_autohomecar__ChtlyGYtAk-AJ1G_AA3YCugE3oI074.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M00/C6/A7/480x360_0_q87_autohomecar__ChtlyGYtAfqAe2vtAAoEQ4i885k124.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M07/C6/A7/480x360_0_q87_autohomecar__ChtlyGYtAf2AR8BGAA_s5z5Dvps270.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M04/C6/81/480x360_0_q87_autohomecar__ChxoHmYtAf-AT1DrAA12iCNhR58816.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M07/C6/81/480x360_0_q87_autohomecar__ChxoHmYtAgKAWduXAAyXdEWinGg836.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M0B/C6/80/480x360_0_q87_autohomecar__ChxoHmYtAfSAdbA4AA8l8pa8GZ4531.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M05/C6/A7/480x360_0_q87_autohomecar__ChtlyGYtAfiAc-MjAA0C6XFKnrg377.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M0A/C6/81/480x360_0_q87_autohomecar__ChxoHmYtAgSAVh_HAAgq1J6MuFY496.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M08/C6/A7/480x360_0_q87_autohomecar__ChtlyGYtAgqAZuhyAAsHz184XTU970.jpg"
+        ],
+        "videolist": [],
+        "lastappend": "",
+        "ishasphoto": 1,
+        "drivingSkills": 0,
+        "multiImages": [
+          {
+            "koubeiId": 5345830,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g31/M0B/C6/80/480x360_0_q87_autohomecar__ChxoHmYtAfSAdbA4AA8l8pa8GZ4531.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5345830,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g31/M05/C6/A7/480x360_0_q87_autohomecar__ChtlyGYtAfiAc-MjAA0C6XFKnrg377.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5345830,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g31/M00/C6/A7/480x360_0_q87_autohomecar__ChtlyGYtAfqAe2vtAAoEQ4i885k124.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          }
+        ],
+        "showId": "01hwfwx5e06msk8d9r6cr00000",
+        "syear": 2024,
+        "syearId": 19529,
+        "routinecruisingrange": 0,
+        "exinfolist": [
+          {
+            "name": "行驶里程",
+            "value": "7314km"
+          },
+          {
+            "name": "百公里油耗",
+            "value": "11.5L"
+          },
+          {
+            "name": "裸车购买价",
+            "value": "96.30万"
+          },
+          {
+            "name": "购买时间",
+            "value": "2023-12"
+          },
+          {
+            "name": "购买地点",
+            "value": "潍坊"
+          }
+        ],
+        "deliveryCycle": 1,
+        "springBattery": 0.0,
+        "springRange": 0,
+        "summerBattery": 0.0,
+        "summerRange": 0,
+        "winterBattery": 0.0,
+        "writeSeason": 0,
+        "winterCruisingRange": 0,
+        "Koubeiid": 5345830
+      },
+      {
+        "photoCount": 9,
+        "mediaCount": 9,
+        "koubeiType": 1,
+        "infoId": 0,
+        "dataType": "koubei",
+        "userid": 278230719,
+        "username": "临沂车友5173417",
+        "userimage": "http://i2.autoimg.cn/userscenter/g30/M07/CB/F5/120X120_0_q87_autohomecar__ChxknGT-zZyAWg-0AACEOLV6jjg418.png",
+        "carownerlevels": 0,
+        "isauth": "0",
+        "posttime": "2024-04-20",
+        "posttimeV2": "2024-04-20",
+        "viewcount": 58904,
+        "commentcount": 48,
+        "helpfulcount": 39,
+        "specid": 67356,
+        "specname": "2024款 A8L Horch创始人版 55TFSI",
+        "bigV": 0,
+        "userBigVLevel": 0,
+        "recommend": 0,
+        "isbattery": 0,
+        "actual_oil_consumption": "11.0",
+        "actual_battery_consumption": "0.0",
+        "powertypefeelingid": 16,
+        "powertype": 8,
+        "distance": "4000km",
+        "buyprice": "130.00万",
+        "buyplace": "临沂",
+        "boughtDate": "2024-03",
+        "dealerName": "临沂览奥奥迪",
+        "location": "山东",
+        "dealerId": 2107317,
+        "apperance": 5,
+        "internal": 4,
+        "comfortableness": 0,
+        "space": 5,
+        "power": 4,
+        "maneuverability": 0,
+        "oilConsumption": 4,
+        "costEfficient": 4,
+        "averageScore": 4.29,
+        "scoreList": [
+          {
+            "name": "空间",
+            "value": "5"
+          },
+          {
+            "name": "驾驶感受",
+            "value": "4"
+          },
+          {
+            "name": "油耗",
+            "value": "4"
+          },
+          {
+            "name": "外观",
+            "value": "5"
+          },
+          {
+            "name": "内饰",
+            "value": "4"
+          },
+          {
+            "name": "性价比",
+            "value": "4"
+          },
+          {
+            "name": "配置",
+            "value": "4"
+          }
+        ],
+        "purposes": [],
+        "medals": [
+          {
+            "type": 2,
+            "name": "精华"
+          }
+        ],
+        "feeling_summary": "开霍希找初恋",
+        "contents": [
+          {
+            "structuredid": 1,
+            "structuredname": "满意",
+            "content": "一开始去看的迈巴赫，因为新款迈巴赫产品力还是很强的，但是身边人开迈巴赫的有点多，光我们家小区就有两辆，我..."
+          },
+          {
+            "structuredid": 2,
+            "structuredname": "不满意",
+            "content": "也经过了这么一段时间的体验，感觉。一直没有找到一个合适的地方放手机，要是中控不放水的话还可以卡在水杯架里..."
+          }
+        ],
+        "carOwnershipPeriod": "2个月",
+        "newEnergyEval": 0,
+        "newEnergyUser": 0,
+        "showSignUp": 0,
+        "showPublishEval": 0,
+        "piclist": [
+          "https://k3.autoimg.cn/koubeidfs/g31/M04/FF/32/480x360_0_q87_autohomecar__ChxoHWYimUqALkX5AAicNHVfR2Y423.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M01/FF/1A/480x360_0_q87_autohomecar__ChtlyGYimUqAXl4gAAzpAloozjY939.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M02/FF/1A/480x360_0_q87_autohomecar__ChtlyGYimUuAI_m9AA50wqIdSZM623.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M08/FE/F3/480x360_0_q87_autohomecar__ChxoHmYimUqAEespAAfBJ3jR3Z8241.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M01/FF/32/480x360_0_q87_autohomecar__ChxoHWYimUiAbUsrAAaAV5J_sd8487.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M07/FE/F3/480x360_0_q87_autohomecar__ChxoHmYimUqAVe4cAAjnFqxLaLQ847.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M01/FF/1A/480x360_0_q87_autohomecar__ChtlyGYimUiAZnjwAAlHyqFkTC0994.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M04/24/17/480x360_0_q87_autohomecar__ChxoHWYjbgyATATfAAxST0Wd5VU490.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M02/23/D9/480x360_0_q87_autohomecar__ChxoHmYjbg2AVDAeAAcpkDm70SE983.jpg"
+        ],
+        "videolist": [],
+        "lastappend": "",
+        "ishasphoto": 1,
+        "drivingSkills": 0,
+        "multiImages": [
+          {
+            "koubeiId": 5339507,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g31/M01/FF/1A/480x360_0_q87_autohomecar__ChtlyGYimUqAXl4gAAzpAloozjY939.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5339507,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g31/M02/FF/1A/480x360_0_q87_autohomecar__ChtlyGYimUuAI_m9AA50wqIdSZM623.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5339507,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g31/M04/FF/32/480x360_0_q87_autohomecar__ChxoHWYimUqALkX5AAicNHVfR2Y423.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          }
+        ],
+        "showId": "01hvvjdnxk6msk6e9n60vg0000",
+        "syear": 2024,
+        "syearId": 19529,
+        "routinecruisingrange": 0,
+        "exinfolist": [
+          {
+            "name": "行驶里程",
+            "value": "4000km"
+          },
+          {
+            "name": "百公里油耗",
+            "value": "11.0L"
+          },
+          {
+            "name": "裸车购买价",
+            "value": "130.00万"
+          },
+          {
+            "name": "购买时间",
+            "value": "2024-03"
+          },
+          {
+            "name": "购买地点",
+            "value": "临沂"
+          }
+        ],
+        "deliveryCycle": 2,
+        "springBattery": 0.0,
+        "springRange": 0,
+        "summerBattery": 0.0,
+        "summerRange": 0,
+        "winterBattery": 0.0,
+        "writeSeason": 0,
+        "winterCruisingRange": 0,
+        "Koubeiid": 5339507
+      },
+      {
+        "photoCount": 9,
+        "mediaCount": 9,
+        "koubeiType": 1,
+        "infoId": 0,
+        "dataType": "koubei",
+        "userid": 278055830,
+        "username": "临沂车友2112474",
+        "userimage": "http://i2.autoimg.cn/userscenter/g30/M07/0C/22/120X120_0_q87_autohomecar__CjIFU2T-zoKAT_xiAADqlIrgREQ182.png",
+        "carownerlevels": 0,
+        "isauth": "0",
+        "posttime": "2024-04-15",
+        "posttimeV2": "2024-04-15",
+        "viewcount": 36231,
+        "commentcount": 13,
+        "helpfulcount": 17,
+        "specid": 64044,
+        "specname": "2024款 A8L 55 TFSI quattro 旗舰型",
+        "bigV": 0,
+        "userBigVLevel": 0,
+        "recommend": 0,
+        "isbattery": 0,
+        "actual_oil_consumption": "10.5",
+        "actual_battery_consumption": "0.0",
+        "powertypefeelingid": 16,
+        "powertype": 8,
+        "distance": "5000km",
+        "buyprice": "95.30万",
+        "buyplace": "临沂",
+        "boughtDate": "2024-01",
+        "dealerName": "临沂奥海奥迪",
+        "location": "山东",
+        "dealerId": 2107319,
+        "apperance": 5,
+        "internal": 4,
+        "comfortableness": 0,
+        "space": 5,
+        "power": 5,
+        "maneuverability": 0,
+        "oilConsumption": 4,
+        "costEfficient": 4,
+        "averageScore": 4.43,
+        "scoreList": [
+          {
+            "name": "空间",
+            "value": "5"
+          },
+          {
+            "name": "驾驶感受",
+            "value": "5"
+          },
+          {
+            "name": "油耗",
+            "value": "4"
+          },
+          {
+            "name": "外观",
+            "value": "5"
+          },
+          {
+            "name": "内饰",
+            "value": "4"
+          },
+          {
+            "name": "性价比",
+            "value": "4"
+          },
+          {
+            "name": "配置",
+            "value": "4"
+          }
+        ],
+        "purposes": [],
+        "medals": [
+          {
+            "type": 2,
+            "name": "精华"
+          }
+        ],
+        "feeling_summary": "六横十二纵",
+        "contents": [
+          {
+            "structuredid": 1,
+            "structuredname": "满意",
+            "content": "一直很喜欢奥迪这个品牌，加上最近又有商务需求属性的这么一台车，所以就把目光放到了A8上面。这几款车，我感觉..."
+          },
+          {
+            "structuredid": 2,
+            "structuredname": "不满意",
+            "content": "新款以后虽然外观的辨识度改了上来，但是内饰还是和A6大差不差，有时候拍个内饰照片出去，人家都以为是A6，这一..."
+          }
+        ],
+        "carOwnershipPeriod": "4个月",
+        "newEnergyEval": 0,
+        "newEnergyUser": 0,
+        "showSignUp": 0,
+        "showPublishEval": 0,
+        "piclist": [
+          "https://k2.autoimg.cn/koubeidfs/g31/M09/F7/2E/480x360_0_q87_autohomecar__ChxoHWYc89eAXbb4AA1CFWJF-M0860.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M06/F6/F1/480x360_0_q87_autohomecar__ChxoHmYc89qAKCTgABpPOJ3ofPY775.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M03/F6/F1/480x360_0_q87_autohomecar__ChxoHmYc89iAacLGABXVIWxLAK4213.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M07/F6/F0/480x360_0_q87_autohomecar__ChxoHmYc89eAJK8-ABQE_D3zD8A353.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M01/F7/2E/480x360_0_q87_autohomecar__ChxoHWYc89aAcsZEABIDwPeSx4k739.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M07/F7/17/480x360_0_q87_autohomecar__ChtlyGYc89mAAOiWABdcSkQkAik134.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M02/F7/2E/480x360_0_q87_autohomecar__ChxoHWYc89aAF5ZmABI2oDh-crk971.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M00/F7/2E/480x360_0_q87_autohomecar__ChxoHWYc89iAWXNaAA45KrftYFw020.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M07/F7/2E/480x360_0_q87_autohomecar__ChxoHWYc89iAW5q2AA_Zqj3Jllg381.jpg"
+        ],
+        "videolist": [],
+        "lastappend": "",
+        "ishasphoto": 1,
+        "drivingSkills": 0,
+        "multiImages": [
+          {
+            "koubeiId": 5336059,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g31/M07/F6/F0/480x360_0_q87_autohomecar__ChxoHmYc89eAJK8-ABQE_D3zD8A353.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5336059,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g31/M01/F7/2E/480x360_0_q87_autohomecar__ChxoHWYc89aAcsZEABIDwPeSx4k739.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5336059,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g31/M07/F7/17/480x360_0_q87_autohomecar__ChtlyGYc89mAAOiWABdcSkQkAik134.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          }
+        ],
+        "showId": "01hvghh43v6msk6dhg6mwg0000",
+        "syear": 2024,
+        "syearId": 19529,
+        "routinecruisingrange": 0,
+        "exinfolist": [
+          {
+            "name": "行驶里程",
+            "value": "5000km"
+          },
+          {
+            "name": "百公里油耗",
+            "value": "10.5L"
+          },
+          {
+            "name": "裸车购买价",
+            "value": "95.30万"
+          },
+          {
+            "name": "购买时间",
+            "value": "2024-01"
+          },
+          {
+            "name": "购买地点",
+            "value": "临沂"
+          }
+        ],
+        "deliveryCycle": 1,
+        "springBattery": 0.0,
+        "springRange": 0,
+        "summerBattery": 0.0,
+        "summerRange": 0,
+        "winterBattery": 0.0,
+        "writeSeason": 0,
+        "winterCruisingRange": 0,
+        "Koubeiid": 5336059
+      },
+      {
+        "photoCount": 9,
+        "mediaCount": 9,
+        "koubeiType": 1,
+        "infoId": 0,
+        "dataType": "koubei",
+        "userid": 276417195,
+        "username": "开心超人不会飞",
+        "userimage": "http://i2.autoimg.cn/userscenter/g30/M07/0C/22/120X120_0_q87_autohomecar__CjIFU2T-zoKAT_xiAADqlIrgREQ182.png",
+        "carownerlevels": 0,
+        "isauth": "0",
+        "posttime": "2024-03-08",
+        "posttimeV2": "2024-03-08",
+        "viewcount": 25453,
+        "commentcount": 5,
+        "helpfulcount": 18,
+        "specid": 58757,
+        "specname": "2023款 A8L 50 TFSI quattro 尊享型",
+        "bigV": 0,
+        "userBigVLevel": 0,
+        "recommend": 0,
+        "isbattery": 0,
+        "actual_oil_consumption": "12.6",
+        "actual_battery_consumption": "0.0",
+        "powertypefeelingid": 16,
+        "powertype": 8,
+        "distance": "7451km",
+        "buyprice": "77.60万",
+        "buyplace": "济南",
+        "boughtDate": "2023-09",
+        "dealerName": "润华奥迪济南高新店",
+        "dealerId": 2085758,
+        "apperance": 5,
+        "internal": 5,
+        "comfortableness": 0,
+        "space": 5,
+        "power": 5,
+        "maneuverability": 0,
+        "oilConsumption": 5,
+        "costEfficient": 5,
+        "averageScore": 4.86,
+        "scoreList": [
+          {
+            "name": "空间",
+            "value": "5"
+          },
+          {
+            "name": "驾驶感受",
+            "value": "5"
+          },
+          {
+            "name": "油耗",
+            "value": "5"
+          },
+          {
+            "name": "外观",
+            "value": "5"
+          },
+          {
+            "name": "内饰",
+            "value": "5"
+          },
+          {
+            "name": "性价比",
+            "value": "5"
+          },
+          {
+            "name": "配置",
+            "value": "4"
+          }
+        ],
+        "purposes": [],
+        "medals": [
+          {
+            "type": 1,
+            "name": "满级精华"
+          }
+        ],
+        "feeling_summary": "最具性价比的奥迪A8",
+        "contents": [
+          {
+            "structuredid": 1,
+            "structuredname": "满意",
+            "content": "当初选择它就是冲着性价比来的，我感觉这个车的价格方面还是要比S和七系来的更加实惠，我因为出去谈合作需要一..."
+          },
+          {
+            "structuredid": 2,
+            "structuredname": "不满意",
+            "content": "不太满意的地方就是中控屏幕和副驾前面装饰饰板挺容易粘指纹的，因为我的手平时就容易出汗，一到夏天的时间，每..."
+          }
+        ],
+        "carOwnershipPeriod": "7个月",
+        "newEnergyEval": 0,
+        "newEnergyUser": 0,
+        "showSignUp": 0,
+        "showPublishEval": 0,
+        "piclist": [
+          "https://k2.autoimg.cn/koubeidfs/g31/M00/52/D3/480x360_0_q87_autohomecar__ChxoHmXp6uyAW05_AAcZ72amD-4479.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M05/52/FA/480x360_0_q87_autohomecar__ChtlyGXp6umAf3C0AAeG4Sh75Kg091.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M08/52/D3/480x360_0_q87_autohomecar__ChxoHmXp6umAGZmVAAr86AqNS9o359.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M01/52/D3/480x360_0_q87_autohomecar__ChxoHmXp6uuAP78xAAqGkXP3YMY157.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M03/53/1A/480x360_0_q87_autohomecar__ChxoHWXp6uyAeVhQAAch4uUnm-M309.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M0A/53/1A/480x360_0_q87_autohomecar__ChxoHWXp6uqASocxAAsEZRUKeCM317.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M04/52/D3/480x360_0_q87_autohomecar__ChxoHmXp6u6AMhQ8AAtXvpv7AUo291.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M06/52/FA/480x360_0_q87_autohomecar__ChtlyGXp6umALHLZAAc1PiUuc6s690.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g31/M04/53/1A/480x360_0_q87_autohomecar__ChxoHWXp6u2ALE8aAAskhiolJpI261.jpg"
+        ],
+        "videolist": [],
+        "lastappend": "",
+        "ishasphoto": 1,
+        "drivingSkills": 0,
+        "multiImages": [
+          {
+            "koubeiId": 5307804,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g31/M08/52/D3/480x360_0_q87_autohomecar__ChxoHmXp6umAGZmVAAr86AqNS9o359.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5307804,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g31/M01/52/D3/480x360_0_q87_autohomecar__ChxoHmXp6uuAP78xAAqGkXP3YMY157.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5307804,
+            "videoId": 0,
+            "img": "https://k2.autoimg.cn/koubeidfs/g31/M00/52/D3/480x360_0_q87_autohomecar__ChxoHmXp6uyAW05_AAcZ72amD-4479.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          }
+        ],
+        "showId": "01hrcvvd3j6msk0dsr60t00000",
+        "syear": 2023,
+        "syearId": 16659,
+        "routinecruisingrange": 0,
+        "exinfolist": [
+          {
+            "name": "行驶里程",
+            "value": "7451km"
+          },
+          {
+            "name": "百公里油耗",
+            "value": "12.6L"
+          },
+          {
+            "name": "裸车购买价",
+            "value": "77.60万"
+          },
+          {
+            "name": "购买时间",
+            "value": "2023-09"
+          },
+          {
+            "name": "购买地点",
+            "value": "济南"
+          }
+        ],
+        "deliveryCycle": 1,
+        "springBattery": 0.0,
+        "springRange": 0,
+        "summerBattery": 0.0,
+        "summerRange": 0,
+        "winterBattery": 0.0,
+        "writeSeason": 0,
+        "winterCruisingRange": 0,
+        "Koubeiid": 5307804
+      },
+      {
+        "photoCount": 12,
+        "mediaCount": 12,
+        "koubeiType": 1,
+        "infoId": 0,
+        "dataType": "koubei",
+        "userid": 13205643,
+        "username": "全国深蓝车友会泽西",
+        "userimage": "http://i2.autoimg.cn/userscenter/g32/M07/17/C9/120x120_0_q87_autohomecar__ChxkPWdjr02ADqy5AAEiFZIADTI286.jpg.webp",
+        "carownerlevels": 2,
+        "carname": "奥迪A8",
+        "lastAuthBrandLogo": "http://car3.autoimg.cn/cardfs/series/g28/M01/F6/71/100x0_autohomecar__CjIFVGTIoWqAdlH5AABfFDX2Peo393.png",
+        "isauth": "1",
+        "posttime": "2024-01-10",
+        "posttimeV2": "2024-01-10",
+        "viewcount": 126673,
+        "commentcount": 21,
+        "helpfulcount": 35,
+        "specid": 58757,
+        "specname": "2023款 A8L 50 TFSI quattro 尊享型",
+        "bigV": 0,
+        "userBigVLevel": 0,
+        "recommend": 1,
+        "isbattery": 0,
+        "actual_oil_consumption": "13.8",
+        "actual_battery_consumption": "0.0",
+        "powertypefeelingid": 16,
+        "powertype": 8,
+        "distance": "10088km",
+        "buyprice": "79.70万",
+        "buyplace": "上海",
+        "boughtDate": "2023-06",
+        "dealerName": "东昌金桥豪迪",
+        "location": "上海",
+        "dealerId": 67503,
+        "apperance": 4,
+        "internal": 5,
+        "comfortableness": 0,
+        "space": 5,
+        "power": 5,
+        "maneuverability": 0,
+        "oilConsumption": 3,
+        "costEfficient": 4,
+        "averageScore": 4.29,
+        "scoreList": [
+          {
+            "name": "空间",
+            "value": "5"
+          },
+          {
+            "name": "驾驶感受",
+            "value": "5"
+          },
+          {
+            "name": "油耗",
+            "value": "3"
+          },
+          {
+            "name": "外观",
+            "value": "4"
+          },
+          {
+            "name": "内饰",
+            "value": "5"
+          },
+          {
+            "name": "性价比",
+            "value": "4"
+          },
+          {
+            "name": "配置",
+            "value": "4"
+          }
+        ],
+        "purposes": [],
+        "medals": [
+          {
+            "type": 1,
+            "name": "满级精华"
+          }
+        ],
+        "feeling_summary": "实力的象征行政座驾",
+        "contents": [
+          {
+            "structuredid": 1,
+            "structuredname": "满意",
+            "content": "最满意的是这款车配备了强大而高效的动力系统。3.0T发动机与48V轻混系统的结合，提供了充沛的动力输出和平顺的..."
+          },
+          {
+            "structuredid": 2,
+            "structuredname": "不满意",
+            "content": "不满意的地方可能就只有油耗和参数差的有点多哈哈都这个价位了谁能在乎油耗呢"
+          }
+        ],
+        "carOwnershipPeriod": "8个月",
+        "newEnergyEval": 0,
+        "newEnergyUser": 0,
+        "showSignUp": 0,
+        "showPublishEval": 0,
+        "piclist": [
+          "https://k2.autoimg.cn/koubeidfs/g25/M0B/38/35/480x360_0_q87_autohomecar__ChtliGWefrWAPOdhAAXQIpC2iDQ550.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g25/M02/C4/42/480x360_0_q87_autohomecar__ChxkqWWefrWASOlrAARqNq_Bhrc383.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g25/M06/1A/34/480x360_0_q87_autohomecar__CjIFV2WefraAVsMQAAQpji2_Hrg669.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g25/M04/C4/42/480x360_0_q87_autohomecar__ChxkqWWefrWALbTTAAQQm5IUbts488.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g25/M07/C4/42/480x360_0_q87_autohomecar__ChxkqWWefraAfX4iAAWgyriF-_s179.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g25/M0B/1A/34/480x360_0_q87_autohomecar__CjIFV2WefreAKBisAAQP1TtdaWQ328.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g25/M06/C4/45/480x360_0_q87_autohomecar__ChxkqWWefrqAEyInAAUl9F34AaY859.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g25/M04/1A/34/480x360_0_q87_autohomecar__CjIFV2WefrWAPEAgAASuNWpeNdk897.jpg",
+          "https://k3.autoimg.cn/koubeidfs/g25/M03/38/36/480x360_0_q87_autohomecar__ChtliGWefriAGiS0AASNLh0fUDQ471.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g25/M00/C4/42/480x360_0_q87_autohomecar__ChxkqWWefriAfDbUAASZ6oW-abw926.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M01/B7/E4/480x360_0_q87_autohomecar__ChxoHWWiUvmADXOpAAVsdo5_POs377.jpg",
+          "https://k2.autoimg.cn/koubeidfs/g31/M00/B7/C1/480x360_0_q87_autohomecar__ChtlyGWiUvmAdDeJAAhId77kt3k083.jpg"
+        ],
+        "videolist": [],
+        "lastappend": "",
+        "ishasphoto": 1,
+        "drivingSkills": 0,
+        "multiImages": [
+          {
+            "koubeiId": 5272521,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g25/M06/C4/45/480x360_0_q87_autohomecar__ChxkqWWefrqAEyInAAUl9F34AaY859.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5272521,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g25/M04/1A/34/480x360_0_q87_autohomecar__CjIFV2WefrWAPEAgAASuNWpeNdk897.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          },
+          {
+            "koubeiId": 5272521,
+            "videoId": 0,
+            "img": "https://k3.autoimg.cn/koubeidfs/g25/M03/38/36/480x360_0_q87_autohomecar__ChtliGWefriAGiS0AASNLh0fUDQ471.jpg",
+            "during": 0,
+            "duringString": "",
+            "coverType": 1
+          }
+        ],
+        "showId": "01hkshy3dv6ms3echn68rg0000",
+        "syear": 2023,
+        "syearId": 16659,
+        "routinecruisingrange": 0,
+        "exinfolist": [
+          {
+            "name": "行驶里程",
+            "value": "10088km"
+          },
+          {
+            "name": "百公里油耗",
+            "value": "13.8L"
+          },
+          {
+            "name": "裸车购买价",
+            "value": "79.70万"
+          },
+          {
+            "name": "购买时间",
+            "value": "2023-06"
+          },
+          {
+            "name": "购买地点",
+            "value": "上海"
+          }
+        ],
+        "deliveryCycle": 2,
+        "springBattery": 0.0,
+        "springRange": 0,
+        "summerBattery": 0.0,
+        "summerRange": 0,
+        "winterBattery": 0.0,
+        "writeSeason": 0,
+        "winterCruisingRange": 0,
+        "Koubeiid": 5272521
+      }
+    ],
+    "shareresult": {
+      "title": "奥迪A8怎么样？来汽车之家口碑看真相",
+      "logo": "http://car2.autoimg.cn/cardfs/product/g32/M04/0C/95/480x360_autohomecar__Chtk2WgkceWAO1WzACU_G5EOAZ0103.jpg",
+      "description": "已有473位车主发表了用车感受，快来看一下吧",
+      "url": "https://k.m.autohome.com.cn/146/#pvareaid=2118101"
+    },
+    "koubeiVideoFeed": {
+      "pageindex": 0,
+      "pagesize": 0,
+      "rowcount": 0,
+      "videocount": 0,
+      "koubeivideolist": [],
+      "videoNavigatorList": []
+    }
+  }
+}
